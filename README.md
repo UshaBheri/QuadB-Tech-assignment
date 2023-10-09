@@ -27,6 +27,8 @@ Guidelines:
 ○ There is no API request involved in showing the success page, you just have to transfer the data within the app. Use state management for this. 
 ○ The design of the page, validations, rules etc are left up to you but we expect all in place
 
-
+Login Details:
+username: rahul
+password:rahul@2021
 
 
